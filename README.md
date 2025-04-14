@@ -1,4 +1,4 @@
-# 🚀 ClubCoin  
+# 🚀 Project name: ClubCoin  
 **Tạo động lực tham gia & quản lý thành viên hiệu quả bằng Blockchain.**
 
 ---
