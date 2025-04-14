@@ -6,7 +6,7 @@
 ## 🧩 Giới thiệu dự án
 **ClubCoin** là một dự án được xây dựng trên blockchain Cardano, sử dụng token có tên là **ClubPoints Token (CPT)** để quản lý và thúc đẩy sự tham gia của các thành viên trong Câu lạc bộ sinh viên "Blockchain Pioneer Student Club".
 
-### 📌 Dự án hướng đến giải quyết các vấn đề:
+### 🔧 Dự án hướng đến giải quyết các vấn đề:
 - Thiếu động lực tham gia các hoạt động của câu lạc bộ.  
 - Khó khăn trong việc quản lý thành viên.  
 - Không đo lường được mức độ đóng góp của từng thành viên.  
