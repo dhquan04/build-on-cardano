@@ -39,7 +39,7 @@ Khi tham gia câu lạc bộ, mỗi thành viên sẽ được cấp 1 token **C
 - ✅ **Lucid + Blockfrost API**: truy vấn số dư token, xác thực và đổi thưởng.  
 - ✅ **Flask Web App**: giao diện trực quan cho thành viên truy cập và tương tác.  
 
-🔗 Tất cả chức năng hiện đang hoạt động trực tiếp trên **Cardano Testnet (mạng preview)**.
+🔗 Tất cả chức năng sẽ hoạt động trực tiếp trên **Cardano Testnet (mạng preview)**.
 
 ---
 
