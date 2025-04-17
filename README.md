@@ -1,10 +1,10 @@
 # 🚀 Project name: ClubCoin  
-**Tạo động lực tham gia & quản lý thành viên hiệu quả bằng Blockchain.**
+**Tạo động lực tham gia & quản lý thành viên hiệu quả với Blockchain.**
 
 ---
 
-## 🧩 Giới thiệu dự án
-**ClubCoin** là một dự án được xây dựng trên blockchain Cardano, sử dụng token có tên là **ClubPoints Token (CPT)** để quản lý và thúc đẩy sự tham gia của các thành viên trong Câu lạc bộ sinh viên "Blockchain Pioneer Student Club".
+## 🧩 Giới thiệu dự án  
+**ClubCoin** là một giải pháp sáng tạo được xây dựng trên blockchain Cardano, kết hợp **NFT (Non-Fungible Token)** để định danh thành viên và **ClubPoints Token (CPT)** để thúc đẩy sự tham gia trong Câu lạc bộ sinh viên "Blockchain Pioneer Student Club". Dự án hướng tới hiện đại hóa quản lý và tạo động lực cho thành viên thông qua công nghệ phi tập trung.
 
 ### 🔧 Dự án hướng đến giải quyết các vấn đề:
 - Thiếu động lực tham gia các hoạt động của câu lạc bộ.  
@@ -13,9 +13,10 @@
 
 ---
 
-## 🎯 Cách hoạt động
-
-Khi tham gia câu lạc bộ, mỗi thành viên sẽ được cấp 1 token **CPT** chứa nội dung gồm:
+## 🎯 Cách hoạt động  
+Khi tham gia câu lạc bộ, mỗi thành viên sẽ được cấp:  
+- **1 NFT định danh**: Chứa thông tin cá nhân để xác thực danh tính.  
+- **5 token CPT**: Dùng để đổi quyền lợi và tích lũy thưởng.  
 
 | Mục thông tin        | Mô tả                           |
 |------------------|---------------------------------|
@@ -34,9 +35,9 @@ Khi tham gia câu lạc bộ, mỗi thành viên sẽ được cấp 1 token **C
 
 ## 🛠 Công nghệ áp dụng
 
-- ✅ **Cardano CLI**: tạo token, gắn metadata và thực hiện giao dịch.  
+- ✅ **Lucid**: Thư viện JavaScript dùng để mint NFT, mint token CPT, gửi giao dịch, và truy vấn số dư trên blockchain Cardano. 
 - ✅ **Blockchain lưu trữ**: đảm bảo tính minh bạch và bất biến.  
-- ✅ **Lucid + Blockfrost API**: truy vấn số dư token, xác thực và đổi thưởng.  
+- ✅ **Blockfrost API**: Hỗ trợ truy vấn số dư NFT và CPT, tích hợp xác thực và đổi thưởng.
 - ✅ **Flask Web App**: giao diện trực quan cho thành viên truy cập và tương tác.  
 
 🔗 Tất cả chức năng sẽ hoạt động trực tiếp trên **Cardano Testnet (mạng preview)**.
@@ -46,8 +47,7 @@ Khi tham gia câu lạc bộ, mỗi thành viên sẽ được cấp 1 token **C
 ## 🔍  Giá trị mang lại
 
 - 🔐 **Minh bạch và xác thực**: thông tin thành viên được ghi lại bất biến trên blockchain.  
-- 🔥 **Khuyến khích tham gia**: cơ chế tích điểm – đổi thưởng thúc đẩy đóng góp tự nhiên.  
-- ⚖️ **Dân chủ và công bằng**: mỗi thành viên đều có tiếng nói thông qua cơ chế bỏ phiếu.  
+- 🔥 **Khuyến khích tham gia**: cơ chế tích điểm – đổi thưởng thúc đẩy đóng góp tự nhiên.   
 - 🌱 **Tính mở rộng cao**: dễ dàng áp dụng cho các CLB sinh viên khác.  
 - 🧱 **Xây dựng nền tảng bền vững**: đặt nền móng cho hệ sinh thái nội bộ dựa trên công nghệ phi tập trung.  
 
